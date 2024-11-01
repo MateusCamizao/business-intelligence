@@ -1,0 +1,10 @@
+C:\Users\mtwhi\source\repos\Business IntelligenceV2\Business IntelligenceV2\obj\Debug\Business IntelligenceV2.csproj.AssemblyReference.cache
+C:\Users\mtwhi\source\repos\Business IntelligenceV2\Business IntelligenceV2\obj\Debug\Business_IntelligenceV2.FormMain.resources
+C:\Users\mtwhi\source\repos\Business IntelligenceV2\Business IntelligenceV2\obj\Debug\Business_IntelligenceV2.Properties.Resources.resources
+C:\Users\mtwhi\source\repos\Business IntelligenceV2\Business IntelligenceV2\obj\Debug\Business IntelligenceV2.csproj.GenerateResource.cache
+C:\Users\mtwhi\source\repos\Business IntelligenceV2\Business IntelligenceV2\obj\Debug\Business IntelligenceV2.csproj.CoreCompileInputs.cache
+C:\Users\mtwhi\source\repos\Business IntelligenceV2\Business IntelligenceV2\bin\Debug\Business IntelligenceV2.exe.config
+C:\Users\mtwhi\source\repos\Business IntelligenceV2\Business IntelligenceV2\bin\Debug\Business IntelligenceV2.exe
+C:\Users\mtwhi\source\repos\Business IntelligenceV2\Business IntelligenceV2\bin\Debug\Business IntelligenceV2.pdb
+C:\Users\mtwhi\source\repos\Business IntelligenceV2\Business IntelligenceV2\obj\Debug\Business IntelligenceV2.exe
+C:\Users\mtwhi\source\repos\Business IntelligenceV2\Business IntelligenceV2\obj\Debug\Business IntelligenceV2.pdb
